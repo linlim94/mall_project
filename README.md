@@ -1,6 +1,8 @@
 # mall_project
 
 ### 프로젝트 로드맵(Roadmap)
+![로드맵1](https://user-images.githubusercontent.com/105897588/169482416-7f7280dc-7194-4b9c-b73c-46903ff4bd3d.png)
+![로드맵2](https://user-images.githubusercontent.com/105897588/169482435-fbb4b986-ed4b-4945-8bb4-dba4cde0850e.png)
 
 
 ### 프로젝트 기술사양(Specs)
